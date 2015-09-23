@@ -4,6 +4,7 @@ FSShareCenter
 ## Demo
 
 Build the project and run, you will find this is a good custom shareCenter.
+Detail add operation please refer Docments
 
 ## Usage
 #### FSShareCenter 
